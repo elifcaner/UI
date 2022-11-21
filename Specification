@@ -1,0 +1,14 @@
+UI components:
+checkbox (Enabled and Hide Disabled User), 
+Dropdown list(Guest,Admin, SuperAdmin), 
+Buttons (New User, Save User), 
+Text Field(User Name, Display Name etc.), 
+List box (AdminUser, Test User etc.)
+
+Behaviors:
+-checkbox: When it is of, it shows all users. Otherwise it does not display disabled 
+users. Another checkbox provide information of the enabled situation. 
+-Dropdown list: It allows user to choose user role like Guest, Admin, SuperAdmin, 
+-Buttons: It enables to create a New User or Save User information 
+-Text Field: It allows users to enter the User Name, Display Name etc., 
+-List box: It lists the user name, email and enabled status. 
